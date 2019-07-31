@@ -9,7 +9,7 @@ You can access emails service from Google using any available browser installed 
 
 In order to access gmails, you must first create your account on Gmail.
 
-**To sign up or create an account for gmail:
+**To sign up or create an account for gmail:**
 1. Launch any available browser and navigate to [Gmail URL](https://mail.google.com).
 2. Click **Create account** and then select **For myself**.
 3. Enter **First name**, **Last nane**, **Username**, and **Password**.
@@ -21,10 +21,10 @@ In order to access gmails, you must first create your account on Gmail.
 7. Agree to **Privacy and Terms**.
 Congradulations! You are done. You can now access gmail service using any Web browser with active internet connection.
 
-Acessing Gmails
+## Acessing Gmails
 You have signed up to the gmail service, you can access your gmail account using any browser from any corner of the world!
 
-**To sign in to your gmail account:
+**To sign in to your gmail account:**
 1. Launch any available browser and navigate to [Gmail URL](https://mail.google.com).
 2. Click **Sign in**.
 3. Enter **Username** and then click **Next**.

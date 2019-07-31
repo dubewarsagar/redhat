@@ -30,5 +30,5 @@ You have signed up to the gmail service, you can access your gmail account using
 2. Click **Sign in**.
 3. Enter **Username** and then click **Next**.
 4. Enter **Password** and then click **Sign In**.
-![gmail_2](redhat/gmail_2.png)
+![gmail_2](https://dubewarsagar.github.io/redhat/gmail_2.png)
 

@@ -28,7 +28,7 @@ In order to access gmails, you must first create your account on Gmail.
 7. Click **Next**.
 8. Agree to **Privacy and Terms**.
 
-Congradulations! You are done. You can now access gmail service using any Web browser with active internet connection.
+Congratulations! You are done. You can now access gmail service using any Web browser with active internet connection.
 
 ## Acessing Gmails
 Once you have signed up to the gmail service, you can access your gmail account using any browser from any corner of the world!

@@ -15,6 +15,7 @@ In order to access gmails, you must first create your account on Gmail.
 3. Enter **First name**, **Last name**, **Username**, and **Password**.
 
 - Use ![gmail_2](/redhat/eye.png) to view the password.
+
 ![gmail_1](/redhat/gmail_1.png)
 
 4. Click **Next**.
@@ -37,7 +38,7 @@ Once you have signed up to the gmail service, you can access your gmail account 
 2. Click **Sign in**.
 3. Enter **Username** and then click **Next**.
 4. Enter **Password** and then click **Sign In**.
-- Here you can see all the emails that you have recerived. 
-- Click any of the received email to view whats inside it.
-- To send a new email, click **Create**.
+  - Here you can see all the emails that you have recerived. 
+  - Click any of the received email to view whats inside it.
+  - To send a new email, click **Create**.
 

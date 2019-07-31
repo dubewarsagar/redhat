@@ -13,7 +13,8 @@ In order to access gmails, you must first create your account on Gmail.
 1. Launch any available browser and navigate to [_Gmail URL_](https://mail.google.com).
 2. Click **Create account** and then select **For myself**.
 3. Enter **First name**, **Last name**, **Username**, and **Password**.
-   - Use ![gmail_2](/redhat/eye.png) to view the password.
+
+- Use ![gmail_2](/redhat/eye.png) to view the password.
 ![gmail_1](/redhat/gmail_1.png)
 
 4. Click **Next**.

@@ -15,10 +15,13 @@ In order to access gmails, you must first create your account on Gmail.
 3. Enter **First name**, **Last nane**, **Username**, and **Password**.
 4. Click **Next**.
 5. Enter optional details like Phone number abd recovery email address.
-   This will help in case of forgetting password you entered while signing up to the gmail service. 
-5. Enter **Your date of birth** and select **Gender**.
-6. Click **Next**.
-7. Agree to **Privacy and Terms**.
+
+This will help in case of forgetting password you entered while signing up to the gmail service. 
+
+6. Enter **Your date of birth** and select **Gender**.
+7. Click **Next**.
+8. Agree to **Privacy and Terms**.
+
 Congradulations! You are done. You can now access gmail service using any Web browser with active internet connection.
 
 ## Acessing Gmails

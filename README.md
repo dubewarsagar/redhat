@@ -13,8 +13,8 @@ In order to access gmails, you must first create your account on Gmail.
 1. Launch any available browser and navigate to [_Gmail URL_](https://mail.google.com).
 2. Click **Create account** and then select **For myself**.
 3. Enter **First name**, **Last name**, **Username**, and **Password**.
-- Use ![gmail_2](/redhat/eye.png) to view the password.
-![gmail_1](/redhat/gmail_2.png)
+   Use ![gmail_2](/redhat/eye.png) to view the password.
+![gmail_1](/redhat/gmail_1.png)
 
 4. Click **Next**.
 5. Enter optional details like Phone number abd recovery email address.
@@ -26,7 +26,7 @@ In order to access gmails, you must first create your account on Gmail.
 7. Click **Next**.
 8. Agree to **Privacy and Terms**.
 
-- Congradulations! You are done. You can now access gmail service using any Web browser with active internet connection.
+Congradulations! You are done. You can now access gmail service using any Web browser with active internet connection.
 
 ## Acessing Gmails
 You have signed up to the gmail service, you can access your gmail account using any browser from any corner of the world!

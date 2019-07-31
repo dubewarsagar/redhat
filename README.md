@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to Gmail
 
-You can use the [editor on GitHub](https://github.com/dubewarsagar/redhat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Gmail is a free email service developed by Google. You can access Gmail on the web and using third-party programs that synchronize email content through POP or IMAP protocols. Gmail started as a limited beta release on April 1, 2004 and ended its testing phase on July 7, 2009. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this tutorial, we will learn how to get create new account and how to access that gmails using the web browsers. 
 
-### Markdown
+## Signing Up to Gmail
+You can access emails service from Google using any available browser installed on your system. This service offered by Google requires active internet connection and Google do not charge its consumers directly for using this service.    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In order to access gmails, you must first create your account on Gmail.
 
-```markdown
-Syntax highlighted code block
+**To sign up or create an account for gmail:
+1. Launch any available browser and navigate to [Gmail URL](https://mail.google.com).
+2. Click **Create account** and then select **For myself**.
+3. Enter **First name**, **Last nane**, **Username**, and **Password**.
+4. Click **Next**.
+5. Enter optional details like Phone number abd recovery email address.
+   This will help in case of forgetting password you entered while signing up to the gmail service. 
+5. Enter **Your date of birth** and select **Gender**.
+6. Click **Next**.
+7. Agree to **Privacy and Terms**.
+Congradulations! You are done. You can now access gmail service using any Web browser with active internet connection.
 
-# Header 1
-## Header 2
-### Header 3
+Acessing Gmails
+You have signed up to the gmail service, you can access your gmail account using any browser from any corner of the world!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dubewarsagar/redhat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**To sign in to your gmail account:
+1. Launch any available browser and navigate to [Gmail URL](https://mail.google.com).
+2. Click **Sign in**.
+3. Enter **Username** and then click **Next**.
+4. Enter **Password** and then click **Sign In**.

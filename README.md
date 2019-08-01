@@ -17,7 +17,7 @@ To access Gmails, you must first create your account on Gmail.
   ![gmail_1](/redhat/gmail_1.png)
 4. Click **Next**.
 5. Enter optional details like Phone number and recovery email address.
-   - This will help in case of forgetting the password you entered while signing up to the Gmail service.
+   - This will help if you forget the password you entered while signing up to the Gmail service.
    ![gmail_2](/redhat/gmail_2.png)
 6. Enter **Your date of birth** and select **Gender**.
 7. Click **Next**.
